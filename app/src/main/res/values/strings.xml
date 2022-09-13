@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Feedbacks</string>
+    <string name="button_toast">Show Toast</string>
+    <string name="button_snack">Show Snackbar</string>
+    <string name="button_dialog">Show Dialog</string>
+</resources>
